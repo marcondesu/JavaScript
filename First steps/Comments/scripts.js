@@ -5,7 +5,7 @@
 */
 
 //the code below are writing a message on console
-console.log('Wellcome!') //something
+console.log('Welcome!') //something
 
 //ignored
 //console.log('Wellcome!')
