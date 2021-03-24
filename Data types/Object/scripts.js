@@ -2,18 +2,30 @@
     Object
         properties // attributes
         funcionalities // methods
-    
-    {property: value}
+
+    typeof objectName = {
+        property: value
+    }
 */
 
-console.log({
+console.log(`empty object: ${{
     //empty object
-})
+}}`)
 
 console.log({
-    name: "Marcos",
+    name: "Zuc",
     age: 17,
     walk: function() {
         console.log("walk")
     }
 })
+
+const properties = {
+    height: 1.90,
+    width: 0.68,
+    bold: false,
+    visible: true
+}
+
+console.log(properties)
+console.log(properties.visible)
