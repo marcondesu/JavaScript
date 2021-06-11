@@ -12,4 +12,4 @@ let n2 = 5
 console.log(`the number 1 is ${n1}`)
 console.log(`the number 2 is ${n2}`)
 console.log(`the sum is ${sum(n1, n2)}`)
-console.log(total)
+console.log(total) 
